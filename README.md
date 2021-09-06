@@ -1,2 +1,2 @@
 # myhello-arc
-my githuib rep for the Hello-Arc demo
+my github repo for the Hello-Arc GitOps demo
